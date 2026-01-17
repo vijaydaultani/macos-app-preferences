@@ -1,0 +1,35 @@
+{
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.18",
+      "6.26",
+      "7.1",
+      "6.9",
+      "6.25",
+      "7.17",
+      "6.10",
+      "7.2",
+      "6.11",
+      "6.7",
+      "6.1",
+      "8.8"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kobo",
+  "welcome_wizard_was_run": true
+}

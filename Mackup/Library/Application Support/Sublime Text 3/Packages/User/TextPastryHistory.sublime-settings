@@ -1,0 +1,110 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					/*"start": "1",*/
+					/*"step": "0",*/
+					/*"stop": "1",*/
+					"text": "1 1 1",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 1",
+			},
+			"key": "f4093d4303a6804a1cf378c28e59581a",
+			"label": "1 1 1",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 00",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 00",
+			},
+			"key": "7ff8fc70c08d3bb8c8d5ef8aa00f8f17",
+			"label": "1 1 00",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 2",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 2",
+			},
+			"key": "bed4ce69bb178ee0474acea7c3188868",
+			"label": "1 1 2",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					/*"text": "1 1 2",*/
+					"start": "1",
+					"stop": "1",
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 1",
+			},
+			"key": "e3feeee2e8fce90c642a7bb63dfdc8da",
+			"label": "range 1 1",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					/*"text": "1 1 2",*/
+					"start": "1",
+					"stop": "1",
+					"step": "0",
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 1 0",
+			},
+			"key": "e12632cde1ae15f8a2b2ef45b3351194",
+			"label": "range 1 1 0",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					/*"start": "1",*/
+					/*"stop": "1",*/
+					/*"step": "0",*/
+					"text": "1 1 0",
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 0",
+			},
+			"key": "df5947fb78700bdd567c5ebf0d912085",
+			"label": "1 1 0",
+		},
+	],
+	"last_command":
+	{
+		"args":
+		{
+			/*"start": "1",*/
+			/*"step": "0",*/
+			/*"stop": "1"*/
+			/*"text": "1 1 2",*/
+			/*"start": "1",*/
+			/*"stop": "1",*/
+			/*"step": "0",*/
+			"text": "1 1 0",
+		},
+		"command": "text_pastry_step",
+		"text": "1 1 0",
+	},
+}

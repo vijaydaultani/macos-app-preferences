@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Installed Extensions</key>
+	<array>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.google-translate</string>
+			<key>Extension Name</key>
+			<string>Google Translate</string>
+			<key>Package Name</key>
+			<string>GoogleTranslate.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.bing-translator</string>
+			<key>Extension Name</key>
+			<string>Bing Translator</string>
+			<key>Package Name</key>
+			<string>BingTranslator.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.pilotmoon.popclip.extension.online-thesaurus</string>
+			<key>Extension Name</key>
+			<string>Online Thesaurus</string>
+			<key>Package Name</key>
+			<string>@g9rfgp.com.pilotmoon.popclip.extension.online-thesaurus.popclipext</string>
+		</dict>
+		<dict>
+			<key>Enabled</key>
+			<true/>
+			<key>Extension Identifier</key>
+			<string>com.popclip.extension.instant-translate</string>
+			<key>Extension Name</key>
+			<string>Instant Translate</string>
+			<key>Package Name</key>
+			<string>InstantTranslate.popclipext</string>
+		</dict>
+	</array>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>

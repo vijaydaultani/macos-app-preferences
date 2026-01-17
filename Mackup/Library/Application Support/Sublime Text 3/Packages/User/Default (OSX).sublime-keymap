@@ -1,0 +1,4 @@
+[
+  	{ "keys": ["shift+enter"], "command": "jumpy", "context": [{ "key": "panel_has_focus", "operand": false }] }
+]
+

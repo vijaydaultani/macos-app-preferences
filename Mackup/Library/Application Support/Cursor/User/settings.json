@@ -1,0 +1,54 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1,
+    "editor.renderWhitespace": "none",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop",
+        "editor.formatOnSave": true
+    },
+    "[bibtex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop",
+        "editor.formatOnSave": true
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.enablePersistentSessions": false,
+    "git.enableSmartCommit": true,
+    "grammarly.config.documentDomain": "academic",
+    "grammarly.config.documentDialect": "american",
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/*.tex"
+    ],
+    "latex-workshop.synctex.afterBuild.enabled": true,
+    "latex-workshop.formatting.latex": "latexindent",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "workbench.editorLargeFileConfirmation": 15,
+    "update.mode": "manual",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorCustomizations": {
+        "editorSuggestWidget.selectedBackground": "#505200"
+    },
+    "remote.SSH.remotePlatform": {
+        "dwarapala_local": "linux",
+        "ganesha_local": "linux",
+        "ganesha": "linux",
+        "dwarapala": "linux"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Default Dark Modern",
+    "explorer.confirmPasteNative": false,
+    "editor.accessibilitySupport": "on",
+    "remote.autoForwardPortsSource": "hybrid",
+    "editor.fontFamily": "'JetBrains Mono'"
+}

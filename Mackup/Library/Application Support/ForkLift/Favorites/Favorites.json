@@ -1,0 +1,197 @@
+{
+  "versionUUID" : "A3BD952A-CC35-4815-AC90-988027EEF909",
+  "modificationDate" : "2025-12-12T12:27:03.838000",
+  "favorites" : [
+    {
+      "attributes" : {
+        "Name" : "Favorites"
+      },
+      "childItems" : [
+        {
+          "UUID" : "DCD3B12A-74B1-4A56-9FA0-4633BDEC11F7",
+          "attributes" : {
+            "Path" : "\/Applications"
+          },
+          "type" : "Local"
+        },
+        {
+          "type" : "Local",
+          "UUID" : "7A382DEB-429F-4C50-A4D2-F2D04A70F021",
+          "attributes" : {
+            "Path" : "~\/Desktop"
+          }
+        },
+        {
+          "attributes" : {
+            "Path" : "~\/Documents"
+          },
+          "type" : "Local",
+          "UUID" : "EB852C0A-155C-4AA9-BBAA-22B722F1FE90"
+        },
+        {
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "~\/Downloads"
+          },
+          "UUID" : "9F9838E1-1DF5-4E67-9759-2BFEEF948CBE"
+        },
+        {
+          "attributes" : {
+            "Path" : "~\/Pictures"
+          },
+          "UUID" : "F1FB9EC8-0B16-4C91-8586-FAE89811D021",
+          "type" : "Local"
+        },
+        {
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "\/Users\/vijaydaultani\/Movies"
+          },
+          "UUID" : "9315B5D0-90E5-4555-AFED-43E176068B74",
+          "modificationDate" : "2025-04-06T13:02:01.164000"
+        },
+        {
+          "UUID" : "AC007BBB-300A-46F5-8651-6926691BEE02",
+          "modificationDate" : "2025-07-24T16:16:26.128000",
+          "attributes" : {
+            "Path" : "\/Users\/vijaydaultani\/Documents\/CleanShot X"
+          },
+          "type" : "Local"
+        },
+        {
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "\/Users\/vijaydaultani\/work\/github\/overleaf\/ml-fy-2025"
+          },
+          "modificationDate" : "2025-07-24T16:15:29.732000",
+          "UUID" : "EAC78851-7D2B-47A6-9F57-BB182495CBE4"
+        },
+        {
+          "type" : "SMB",
+          "UUID" : "84457046-034F-4170-BAB5-2041EE50794D",
+          "attributes" : {
+            "Username" : "vijay.daultani",
+            "Path" : "",
+            "Server" : "nas-ds220j",
+            "Name" : "nas-ds220j",
+            "TextEndcoding" : 4,
+            "AskPassword" : false
+          },
+          "modificationDate" : "2023-08-22T02:57:08.150000"
+        },
+        {
+          "attributes" : {
+            "Path" : "\/Users\/vijaydaultani\/Library\/Mobile Documents\/com~apple~CloudDocs"
+          },
+          "UUID" : "F18F7106-8D27-48CD-A2CF-5EB14A09A868",
+          "type" : "Local",
+          "modificationDate" : "2024-03-26T09:36:00.862000"
+        },
+        {
+          "modificationDate" : "2025-11-05T09:23:09.346000",
+          "attributes" : {
+            "TextEndcoding" : 4,
+            "Username" : "vijay",
+            "Server" : "dwarapala",
+            "AskPassword" : false
+          },
+          "UUID" : "46987E8D-21B9-4ED6-8615-3A89B5A31FC5",
+          "type" : "SFTP"
+        },
+        {
+          "type" : "SFTP",
+          "attributes" : {
+            "Username" : "vijay",
+            "AskPassword" : false,
+            "TextEndcoding" : 4,
+            "Server" : "ganesha"
+          },
+          "UUID" : "3C81CEC5-02EC-4898-9E5F-E3CC0A02D592",
+          "modificationDate" : "2025-11-05T09:28:58.028000"
+        }
+      ],
+      "UUID" : "08354220-A380-4303-ADFF-9983D6B145C0",
+      "type" : "Group"
+    },
+    {
+      "type" : "Group",
+      "modificationDate" : "2021-09-23T09:01:18.624000",
+      "attributes" : {
+        "Name" : "Okazaki Lab"
+      },
+      "UUID" : "6F8E9BD1-D2DC-43CF-81D3-BF1875AC8C6E"
+    },
+    {
+      "type" : "Group",
+      "UUID" : "F57562EA-2E64-4923-8BFA-307FB3B73CE9",
+      "modificationDate" : "2024-03-25T07:34:15.882000",
+      "childItems" : [
+        {
+          "UUID" : "3CE6ABCA-D62C-4AC8-A775-B370F8210A70",
+          "modificationDate" : "2024-04-12T02:56:41.341000",
+          "type" : "Local",
+          "attributes" : {
+            "Path" : "\/Users\/vijaydaultani\/work\/github\/overleaf",
+            "Name" : "Overleaf Home"
+          }
+        }
+      ],
+      "attributes" : {
+        "Name" : "ICL Paper"
+      }
+    },
+    {
+      "type" : "Group",
+      "UUID" : "9E581E25-5492-40A5-BDC0-073C12B20053",
+      "modificationDate" : "2025-04-25T07:13:00.383000",
+      "attributes" : {
+        "Name" : "Cloud"
+      },
+      "childItems" : [
+        {
+          "UUID" : "DBF7054C-ADC2-47F1-96C3-C5197888EBC4",
+          "modificationDate" : "2025-04-25T07:13:02.302000",
+          "attributes" : {
+            "Name" : "Google Drive",
+            "Path" : "\/Users\/vijaydaultani\/My Drive"
+          },
+          "type" : "Local"
+        }
+      ]
+    },
+    {
+      "attributes" : {
+        "Name" : "Neural Nurture"
+      },
+      "UUID" : "320F8D0C-04A0-4997-BE03-257F20C9A335",
+      "modificationDate" : "2025-07-15T08:07:24.310000",
+      "childItems" : [
+        {
+          "modificationDate" : "2025-12-12T12:27:03.838000",
+          "UUID" : "3793C4FB-3F32-45B1-9D52-D13114F4697A",
+          "attributes" : {
+            "Name" : "vijay@dwarapala_local",
+            "AskPassword" : false,
+            "TextEndcoding" : 4,
+            "Server" : "192.168.1.10",
+            "Username" : "vijay"
+          },
+          "type" : "SFTP"
+        },
+        {
+          "UUID" : "D01D1788-E622-482A-8D33-04C756E3B8A4",
+          "type" : "SFTP",
+          "modificationDate" : "2025-12-05T10:55:32.513000",
+          "attributes" : {
+            "TextEndcoding" : 4,
+            "Name" : "admin@dwarapala_local",
+            "Username" : "admin",
+            "AskPassword" : false,
+            "Server" : "192.168.1.10"
+          }
+        }
+      ],
+      "type" : "Group"
+    }
+  ]
+}

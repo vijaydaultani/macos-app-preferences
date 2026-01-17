@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Vijay Daultani
+	email = vijay.daultani@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = Vijay Daultani
+#	email = vijaydaultani@gmail.com
+[credential]
+	helper = store
+[http]
+	postBuffer = 157286400
