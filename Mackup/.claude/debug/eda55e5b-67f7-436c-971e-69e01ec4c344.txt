@@ -1,0 +1,5 @@
+2026-01-19T10:51:59.393Z [DEBUG] Restarting caffeinate to maintain sleep prevention
+2026-01-19T10:51:59.394Z [DEBUG] Stopped caffeinate, allowing sleep
+2026-01-19T10:51:59.400Z [DEBUG] Started caffeinate to prevent sleep
+2026-01-19T10:55:59.397Z [DEBUG] Restarting caffeinate to maintain sleep prevention
+2026-01-19T10:55:59.400Z [DEBUG] Started caffeinate to prevent sleep

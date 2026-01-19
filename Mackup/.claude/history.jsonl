@@ -1,0 +1,5 @@
+{"display":"Why did this problem happened actually? Why were the settings of my apps were gone after restart?","pastedContents":{},"timestamp":1768819909610,"project":"/Users/vijaydaultani","sessionId":"aff1ce94-e001-4c8a-a168-d457c8cfa8dc"}
+{"display":"/usage","pastedContents":{},"timestamp":1768819979156,"project":"/Users/vijaydaultani/work/github/claude_usage","sessionId":"a25e5884-5872-4715-b727-9ba282442588"}
+{"display":"/usage","pastedContents":{},"timestamp":1768819979285,"project":"/Users/vijaydaultani/work/github/claude_usage","sessionId":"a25e5884-5872-4715-b727-9ba282442588"}
+{"display":"I believe we have a cron job already to regularly to sync the settings","pastedContents":{},"timestamp":1768820092196,"project":"/Users/vijaydaultani","sessionId":"aff1ce94-e001-4c8a-a168-d457c8cfa8dc"}
+{"display":"yes create a similar sync script for mackup preferences to monthly similar to dotfiles","pastedContents":{},"timestamp":1768820175038,"project":"/Users/vijaydaultani","sessionId":"aff1ce94-e001-4c8a-a168-d457c8cfa8dc"}
